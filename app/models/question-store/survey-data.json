@@ -1,0 +1,33 @@
+{
+  "survey_id": "12312",
+  "survey_name": "on boarding",
+  "total_questions": 10,
+  "total_questions_answered": 4,
+  "survey_last_updated": null,
+  " questions": {
+    "1": {
+      "question": "Tell us what you enjoy about my-codi?",
+      "answer_type": "text",
+      "answer": null,
+      "date_answered": null
+    },
+    "2": {
+      "question": "rate us 1 - 10?",
+      "answer_type": "scale",
+      "answer": null,
+      "date_answered": null
+    },
+    "3": {
+      " question": "Do you use my-codi frequently?",
+      "answer_type": "bool_true",
+      "answer": null,
+      "date_answered": null
+    },
+    "4": {
+      "question": "Do you recommend my-codi frequently?",
+      "answer_type": "bool_yes",
+      "answer": null,
+      "date_answered": null
+    }
+  }
+}
